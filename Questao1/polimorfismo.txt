@@ -1,0 +1,8 @@
+Polimorfismo em linguagens orientadas a objeto, é a capacidade de objetos se comportarem de forma 
+diferenciada em face de suas características ou do ambiente ao qual estejam submetidos, mesmo quando
+executando ação que detenha, semanticamente, a mesma designação.
+
+O polimorfismo em C++ se apresenta sob diversas formas diferentes, desde as mais simples, como funções
+com mesmo nome e lista de parâmetros diferentes, até as mais complexas como funções virtuais, cujas
+formas de execução são dependentes da classe a qual o objeto pertence e são identificadas em tempo de
+execução.
